@@ -1,2 +1,2 @@
-by.stqa.pft.sandbox.HelloWorld.java
- by.stqa.pft.sandbox.HelloWorld
+Helloworld.java
+ Helloworld
